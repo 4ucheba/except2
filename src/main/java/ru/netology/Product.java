@@ -48,6 +48,7 @@ public class Product {
         return Objects.hash(id, title, price);
     }
 
+    // сделаны
     // геттеры + сеттеры
     // на id только геттер — пусть будет неизменяемым для товара
 }
